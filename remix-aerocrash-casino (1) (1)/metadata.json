@@ -1,0 +1,8 @@
+{
+  "name": "Remix AeroCrash Casino",
+  "description": "Experience high-stakes thrills with this modern, real-time multiplayer crash betting game featuring dynamic multipliers and social chat integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
